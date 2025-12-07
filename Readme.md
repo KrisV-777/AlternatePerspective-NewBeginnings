@@ -1,6 +1,7 @@
-# Alternate Perspective: New Beginnings ([Nexus Mods Mirror](https://www.nexusmods.com/skyrimspecialedition/mods/57818))
+# Alternate Perspective: New Beginnings
 
-An addon to [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307), adding a variety of additional starting options.
+An addon to [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307), adding a variety of additional starting options.  
+A compiled version can be found on [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/57818.
 
 
 ## Start Options
